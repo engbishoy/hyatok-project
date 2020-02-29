@@ -1,0 +1,168 @@
+@media(max-width:320px) and (min-width:300px){
+    .auth li {
+        margin-left: 4px;
+    }
+    .user-personal {
+        font-size: 9px;
+    }
+    .name-profile {
+        font-size: 13px;
+    }
+
+    .mediaheader{
+        margin-top: 0px;
+    }
+  
+    .nav-right-imgprofile {
+        width: 24px;
+    }
+ 
+
+}
+
+
+@media(max-width:409px) and (min-width:321px){
+    .mediaheader{
+        margin-top: 0px;
+    }
+    .sign {
+        font-size: 13px;
+    }
+    .user-personal {     
+        font-size: 9px;
+    }
+    .nav-right-imgprofile {
+        width: 24px;
+    }
+    .auth li {
+        margin-left: 11px;
+    }
+    .name-profile {
+        font-size: 14px;
+    }
+}
+
+@media(max-width:460px) and (min-width:410px){
+    .mediaheader{
+        margin-top: 0px;
+    }
+    .sign {
+        font-size: 20px;
+    }
+
+    .user-personal {
+        font-size: 14px;
+    }
+    .nav-right-imgprofile {
+        width: 24px;
+    }
+    .auth li {
+        list-style: none;
+        display: inline-block;
+        margin-left: 11px;
+    }
+
+    .name-profile {
+        font-size: 14px;
+    }
+}
+
+@media(min-width: 612px){
+.mediaheader{
+    margin-top: -40px;
+}
+}
+
+@media(max-width:610px){
+    .all-category h2{
+        font-size: 24px;
+    }
+    .all-category h3{
+        font-size: 20px;
+    }
+    .dropdown-menu>li>a {
+        color: white;
+        font-size: 10px;
+        display: block;
+        padding: 3px 11px;
+    }
+    .my-profile{
+        right: -80px;
+    }
+.top{
+    position: fixed;
+    bottom: 0;
+    right: 0px;
+}
+    .navbar-form {
+        padding: 10px 15px;
+        margin-top: 0px;
+    }
+    .search-h{
+        padding: 16px 28px;
+    box-shadow: 0 1px 3px 0px #b565a7;
+    font-size: 14px;
+    }
+    .bottom-search {
+        position: absolute;
+        bottom: 3px;
+        left: 4px;
+        padding: 3px 16px;
+        color: white;
+        background-color: #b565a7;
+        font-weight: bold;
+        border-radius: 6px;
+    }
+
+
+    .footer h3{
+        font-size: 20px;
+    }
+    .quick-link{
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+
+    .carousel {
+        margin-top: -30px;
+    }
+
+    .carousel-indicators {
+        margin-right: -35%;
+    }
+    
+
+.title-s{
+    font-size: 25px;
+}
+.content .para{
+    font-size: 15px;
+    line-height: 25px;
+}
+
+
+.add-img{
+    position: absolute;
+    cursor: pointer;
+    top: 62px;
+    width: 252px;
+    height: 210px;
+    opacity: 0;
+    right: 0px;
+}
+.add-img-admin{
+    position: absolute;
+    cursor: pointer;
+    top: 44px;
+    width: 252px;
+    height: 201px;
+    opacity: 0;
+    right: 0;
+}
+.edit-personal h2{
+    font-size: 18px;
+}
+
+}
+
+
